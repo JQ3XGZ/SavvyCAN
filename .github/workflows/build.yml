@@ -39,7 +39,7 @@ jobs:
       
   buildmacos86:
     name: macOS x64
-    runs-on: macos-15
+    runs-on: macos-13
 
     steps:
       - name: Prepare macOS Environment
